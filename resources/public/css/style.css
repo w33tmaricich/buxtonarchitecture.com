@@ -1,2 +1,13 @@
 /* some style */
+.btn {
+  background-color: green;
+}
+
+.link {
+  background-color: yellow;
+}
+
+.horizontal-list {
+  background-color: orange;
+}
 
